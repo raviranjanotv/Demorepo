@@ -5,4 +5,9 @@ From Desktop i m also changing .. txt file
 
 Changing from testRepo
 
+<<<<<<< HEAD
 changing from TestRepo.....
+=======
+Again changin g it from desktop
+
+>>>>>>> 893b5a3d103db6c00fb0f3f66f312b5bd8b6274a
