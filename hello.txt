@@ -10,4 +10,10 @@ changing from TestRepo.....
 =======
 Again changin g it from desktop
 
+<<<<<<< HEAD
 >>>>>>> 893b5a3d103db6c00fb0f3f66f312b5bd8b6274a
+=======
+
+Changing it from desktop..2
+
+>>>>>>> c28f9a93531308854371be160612f5034a131a32
